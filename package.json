@@ -1,0 +1,27 @@
+{
+  "name": "mysqlbkup",
+  "version": "0.0.0",
+  "description": "mysqlbkup =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jigarjain/mysqlbkup.git"
+  },
+  "keywords": [
+    "mysql",
+    "backup"
+  ],
+  "author": "Jigar Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jigarjain/mysqlbkup/issues"
+  },
+  "homepage": "https://github.com/jigarjain/mysqlbkup",
+  "dependencies": {
+    "mandrill-api": "^1.0.40",
+    "shelljs": "^0.3.0"
+  }
+}
